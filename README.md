@@ -25,11 +25,14 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ### FOR TERMUX USER
-```bash
-pkg update && pkg upgrade
-pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
-```
+```pkg upgrade && pkg update
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagamagick
+ git clone https://github.com/Araaacakep/siencebot-aq 
+cd wabottt
+bash install.sh
 
 ---------
 
