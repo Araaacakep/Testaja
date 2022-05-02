@@ -2,8 +2,8 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/KvrOeDsK10TB9fUUU5e9r0', 'https://chat.whatsapp.com/HXXTNMIjz5oBeIYdarMJG5']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6285249231619': { // put your number here
-    name: 'Owner Arabot/Tata',
+  '6285323176492': { // put your number here
+    name: 'Owner sience',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285249231619'
-global.author = 'Siencebot'
+global.packname = 'wa.me/6285323176492'
+global.author = 'Bot sience-aa'
 
 global.multiplier = 39 // The higher, The harder levelup
 
