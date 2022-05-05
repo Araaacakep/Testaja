@@ -27,7 +27,7 @@ let tags = {
   'host': 'Host',
   'advanced': 'Advanced',
   'info': 'Info',
-  '': 'No Category',
+  'tagall': 'Tagall',
 }
 const defaultMenu = {
   before: `
